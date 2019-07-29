@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : AVRUSB5.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 11:53:00 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  IC1 / ATMEGA8-DIL28_1_QUAD80M32WG900_ / QUAD80M32WG900 at (231.981 244.053)
+         Placed symbol:  U1 / FT232BM_2_QUAD80M32WG900_FT232B / QUAD80M32WG900 at (243.220 244.053)
+         Placed symbol:  J4 / CON5_BLKCON100VHTM1SQSW1005_FIR / BLKCON100VHTM1SQSW1005 at (253.240 244.155)
+         Placed symbol:  J2 / CON4_7_USB_MICRO_USBA_ / USB_MICRO at (270.827 243.733)
+         Placed symbol:  J1 / CON5_BLKCON100VHTM1SQSW1005_BBP / BLKCON100VHTM1SQSW1005 at (278.254 244.155)
+         Placed symbol:  J3 / CON5_BLKCON100VHTM1SQSW1005_AVR / BLKCON100VHTM1SQSW1005 at (291.615 244.155)
+         Placed symbol:  C5 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (305.166 245.742)
+         Placed symbol:  C10 / CAPACITOR NON-POL_CPCYL1D225L_1 / CPCYL1D225LS100031 at (311.287 245.742)
+         Placed symbol:  C7 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (317.408 245.742)
+         Placed symbol:  C4 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (230.952 256.981)
+         Placed symbol:  D1 / LED_CYLD250LS125031_LED_ / CYLD250LS125031 at (237.073 257.299)
+         Placed symbol:  C8 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (243.829 256.981)
+         Placed symbol:  C3 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (249.950 256.981)
+         Placed symbol:  C6 / CAPACITOR POL_CPCYL1D225LS10003 / CPCYL1D225LS100031 at (256.071 256.981)
+         Placed symbol:  C2 / CAPACITOR NON-POL_CPCYL1D225L_2 / CPCYL1D225LS100031 at (262.192 256.981)
+         Placed symbol:  C9 / CAPACITOR NON-POL_CPCYL1D225L_3 / CPCYL1D225LS100031 at (268.313 256.981)
+         Placed symbol:  R1 / R_AX400X100031_470_SML2015 / AX400X100031 at (273.786 255.394)
+         Placed symbol:  C1 / CAPACITOR NON-POL_CPCYL1D225LS1 / CPCYL1D225LS100031 at (286.879 256.981)
+         Placed symbol:  R11 / R_AX400X100031_1K_SML2015 / AX400X100031 at (292.352 255.394)
+         Placed symbol:  R13 / R_AX400X100031_1K_SML2015 / AX400X100031 at (304.797 255.394)
+         Placed symbol:  R12 / R_AX400X100031_220_SML2015 / AX400X100031 at (230.304 262.151)
+         Placed symbol:  R14 / R_AX400X100031_220_SML2015 / AX400X100031 at (242.749 262.151)
+         Placed symbol:  R15 / R_AX400X100031_220_SML2015 / AX400X100031 at (255.194 262.151)
+         Placed symbol:  R2 / R_AX400X100031_220_SML2015 / AX400X100031 at (267.639 262.151)
+         Placed symbol:  R3 / R_AX400X100031_220_SML2015 / AX400X100031 at (280.084 262.151)
+         Placed symbol:  R4 / R_AX400X100031_220_SML2015 / AX400X100031 at (292.529 262.151)
+         Placed symbol:  R5 / R_AX400X100031_27_SML2015 / AX400X100031 at (304.974 262.151)
+         Placed symbol:  R6 / R_AX400X100031_27_SML2015 / AX400X100031 at (230.304 265.098)
+         Placed symbol:  R7 / R_AX400X100031_1.5K_SML2015 / AX400X100031 at (242.749 265.098)
+         Placed symbol:  R8 / R_AX400X100031_2.2_SML2015 / AX400X100031 at (255.194 265.098)
+         Placed symbol:  R9 / R_AX400X100031_10K_SML2015 / AX400X100031 at (267.639 265.098)
+         Placed symbol:  R10 / R_AX400X100031_470_SML2015 / AX400X100031 at (280.084 265.098)
+         Placed symbol:  Y1 / ZTA_RAD450X200LS300031_3.6864MH / RAD450X200LS300031 at (293.495 266.368)
+         Placed symbol:  Y2 / ZTA_RAD450X200LS300031_6MHZ_ / RAD450X200LS300031 at (305.332 266.368)
+
+
+Placed 34 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+

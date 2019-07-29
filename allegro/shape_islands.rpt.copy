@@ -1,0 +1,33 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : AVRUSB5.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 15:19:19 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 11
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: <a href="xprobe:xy:243.341 218.565">(243.341 218.565)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:245.031 218.514">(245.031 218.514)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:302.731 230.863">(302.731 230.863)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:296.262 230.261">(296.262 230.261)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:301.636 206.758">(301.636 206.758)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:303.262 238.617">(303.262 238.617)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:251.265 223.487">(251.265 223.487)</a>  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: <a href="xprobe:xy:304.918 213.335">(304.918 213.335)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:304.324 221.867">(304.324 221.867)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:313.756 221.519">(313.756 221.519)</a>  Net: GND
+	Point on shape: <a href="xprobe:xy:312.833 219.458">(312.833 219.458)</a>  Net: GND
+</PRE>
+</BODY></HTML>

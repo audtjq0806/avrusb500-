@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : AVRUSB5.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Jul 29 15:19:19 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 11
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (243.341 218.565)  Net: GND
+	Point on shape: (245.031 218.514)  Net: GND
+	Point on shape: (302.731 230.863)  Net: GND
+	Point on shape: (296.262 230.261)  Net: GND
+	Point on shape: (301.636 206.758)  Net: GND
+	Point on shape: (303.262 238.617)  Net: GND
+	Point on shape: (251.265 223.487)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (304.918 213.335)  Net: GND
+	Point on shape: (304.324 221.867)  Net: GND
+	Point on shape: (313.756 221.519)  Net: GND
+	Point on shape: (312.833 219.458)  Net: GND
